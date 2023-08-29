@@ -1,4 +1,5 @@
-Boas Vindas Ao Meu Perfil💙
+Boas Vindas Ao Meu Perfil 💙
+
 Meu nome é Pedro Henrique 
 
 ° Estou estudando no [Alura](https://www.alura.cm.br)
